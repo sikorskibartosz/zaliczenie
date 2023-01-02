@@ -1,0 +1,15 @@
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\bin\Debug\net6.0\Mieszkancy.exe
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\bin\Debug\net6.0\Mieszkancy.deps.json
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\bin\Debug\net6.0\Mieszkancy.runtimeconfig.json
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\bin\Debug\net6.0\Mieszkancy.dll
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\bin\Debug\net6.0\Mieszkancy.pdb
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.csproj.AssemblyReference.cache
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.GeneratedMSBuildEditorConfig.editorconfig
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.AssemblyInfoInputs.cache
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.AssemblyInfo.cs
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.csproj.CoreCompileInputs.cache
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.dll
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\refint\Mieszkancy.dll
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.pdb
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\Mieszkancy.genruntimeconfig.cache
+D:\WSB\wsb21\programowanie obiektowe\projekt_latwiejszy\projekt_latwiejszy_zaliczenie\projekt_latwiejszy_zaliczenie\obj\Debug\net6.0\ref\Mieszkancy.dll
